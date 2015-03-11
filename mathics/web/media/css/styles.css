@@ -171,7 +171,7 @@ a.pdf {
 	bottom: 0px;
 	left: 0;
 	right: 0;
-	background-color: white;
+	background-color: cornsilk;
 	overflow: auto;
 }
 
@@ -191,7 +191,7 @@ a.pdf {
 	margin-right: auto;
 	left: 25%;
 	width: 50%;
-	bottom: 20px;   
+	bottom: 20px;
 }
 
 #welcome,
@@ -199,10 +199,10 @@ a.pdf {
 	/*background-color: #666;*/
 	border: 2px solid #999;
 	color: #333;
-	cursor: default; 
+	cursor: default;
 	padding: 10px;
 	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;	
+	-webkit-border-radius: 10px;
 }
 
 #welcomeContainer p {
@@ -375,11 +375,11 @@ textarea.request {
 	font-family: monospace;
 	font-size: 1em;
 	background: white;
-	
+
 	/* hide the blue border in Safari */
 	outline-style: none;
 	outline-width: 0px;
-	
+
 	/* disable resize grid in Safari */
 	resize: none;
 }
